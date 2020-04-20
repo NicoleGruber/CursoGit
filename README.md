@@ -1,4 +1,5 @@
 
-![./imagem_teste.png](Imagem Teste)
+![Imagem Teste](imagem_teste.png)
 
-Este repositorio serve para curso de Git e Github!
+Este repositorio serve para curso de Git e Github
+...
