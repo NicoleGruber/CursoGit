@@ -1,6 +1,3 @@
 Teste 2 para criação de arquivos
 
-curso 60%
-
-Curso 66%
-
+Adicionando o arquivo gignore
